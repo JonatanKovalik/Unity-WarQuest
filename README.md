@@ -94,6 +94,3 @@ If you're interested in helping, collaborating, or just following the project â€
 
 - [Multiplayer Design (Planned)](README_MULTIPLAYER.md)  
   Future plans for cooperative and competitive multiplayer features.
-
-- [Development Log](README_DEVLOG.md)  
-  Chronological record of development milestones, completed tasks, and upcoming work.
