@@ -69,3 +69,31 @@ If you're interested in helping, collaborating, or just following the project â€
 
 * More info coming soon: design documents, gameplay trailer, and live demo link
 * External assets (models/textures/animations) are credited and described in companion files
+
+---
+
+## ðŸ“‚ Additional Documentation
+
+- [Asset Generation & AI Tools](README_ASSETS.md)  
+  Documentation of AI tools, asset creation workflows, and prompt examples used for models, textures, and animations.
+
+- [Gameplay Overview](README_GAMEPLAY.md)  
+  A detailed description of core gameplay mechanics, game objectives, and player systems.
+
+- [Game Mechanics](README_MECHANICS.md)  
+  In-depth explanation of movement, combat, AI behavior, inventory, and environment interaction.
+
+- [Game World](README_WORLD.md)  
+  Overview of the game world setting, key locations, dynamic features, and factions.
+
+- [Story & Narrative](README_STORY.md)  
+  Background lore, main plot, characters, and quest structure.
+
+- [Technical Documentation](README_TECHNICAL.md)  
+  Project structure, core systems, tools used, and build/deployment information.
+
+- [Multiplayer Design (Planned)](README_MULTIPLAYER.md)  
+  Future plans for cooperative and competitive multiplayer features.
+
+- [Development Log](README_DEVLOG.md)  
+  Chronological record of development milestones, completed tasks, and upcoming work.
