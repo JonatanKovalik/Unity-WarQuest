@@ -74,9 +74,6 @@ If you're interested in helping, collaborating, or just following the project â€
 
 ## ðŸ“‚ Additional Documentation
 
-- [Asset Generation & AI Tools](README_ASSETS.md)  
-  Documentation of AI tools, asset creation workflows, and prompt examples used for models, textures, and animations.
-
 - [Gameplay Overview](README_GAMEPLAY.md)  
   A detailed description of core gameplay mechanics, game objectives, and player systems.
 
