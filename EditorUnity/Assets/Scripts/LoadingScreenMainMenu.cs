@@ -63,7 +63,7 @@ public class LoadingScreenMainMenu : MonoBehaviour
 
     IEnumerator DataTextChange()
     {
-        int index = 7;
+        int index = 0;
         if (index == 0)
         {
             int numberdata = 215;
